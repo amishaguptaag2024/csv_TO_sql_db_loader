@@ -81,3 +81,9 @@ if __name__ == '__main__':
         process_files(ds_names)
     else:
         process_files()
+
+#products, departments :independent
+#customers
+#orders
+#order_items
+#categories
